@@ -5,4 +5,7 @@ html, body {
   canvas {
     display: block;
   }
-  
+  h1 {
+      color: blue 
+
+  }
