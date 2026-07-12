@@ -9,10 +9,10 @@ function setup() {
 function draw() {
   // Challenge 1: An eye using ellipse() function
   fill ("gold");
-  circle(80,80,100);
+  circle(80,80,100,50);
 
   // Challenge 2: A face using circle() function
-  
+
 
   // Challenge 3: A house using rect() function
 
