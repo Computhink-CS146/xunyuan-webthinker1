@@ -9,7 +9,7 @@ function setup() {
 function draw() {
   // Challenge 1: An eye using ellipse() function
   fill ("gold")
-  cicle(80)
+  cicle(80,80,80)
 
   // Challenge 2: A face using circle() function
 
