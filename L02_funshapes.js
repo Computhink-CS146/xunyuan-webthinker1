@@ -16,7 +16,7 @@ function draw() {
   circle(200,100,50,50)
 
   // Challenge 3: A house using rect() function
-  
+  fill ("gold")
 
   // Challenge 4: A rocketship using triangle() function
 
