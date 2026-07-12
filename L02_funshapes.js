@@ -17,7 +17,7 @@ function draw() {
 
   // Challenge 3: A house using rect() function
   fill ("gold");
-  rect(100,50,90,80000);
+  rect(100,300,90,800);
 
   // Challenge 4: A rocketship using triangle() function
 
