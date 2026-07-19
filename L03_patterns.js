@@ -10,7 +10,6 @@ function draw() {
   let CircleY = 50;
 
   for (let num=1; num<5; num++){
-    let i = 
 
     circle(50*num,CircleY*num,CircleDiameter);
   }
