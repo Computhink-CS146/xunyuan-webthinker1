@@ -6,6 +6,7 @@ function setup() {
   
 function draw() {
   // Recap 1: Repeating Circles
+  for (let num=1; num<5; num++)
   circle(75,200,100);
   // circle(225,200,100);
   // circle(375,200,100);
