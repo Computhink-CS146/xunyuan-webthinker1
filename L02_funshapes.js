@@ -22,7 +22,7 @@ function draw() {
 
   // Challenge 4: A rocketship using triangle() function
   fill ("gold")
-  triangle(50,150,100,150,75,99);
+  triangle(70,250,100,150,75,99);
 
   // Challenge 5: A square face using quad() function
 
