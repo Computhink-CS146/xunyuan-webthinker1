@@ -2,8 +2,8 @@
 Task 1: Add the setup() function
 */
 function setup() {
-  createCanvas(400,600);
-  background('red');
+  createCanvas(400,800);
+  background('gray');
 }
 
 
