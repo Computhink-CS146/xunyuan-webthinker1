@@ -6,6 +6,7 @@ function setup() {
   background('red');
 }
 
+
 function draw() {
   // Challenge 1: An eye using ellipse() function
   fill ("gold");
