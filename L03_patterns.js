@@ -9,7 +9,7 @@ function draw() {
   let CircleDiameter = 50;
   let CircleY = 50;
   for (let num=1; num<5; num++){
-  
+  fill
   circle(50*num,CircleY*num,CircleDiameter);
   }
 
