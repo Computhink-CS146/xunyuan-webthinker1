@@ -6,10 +6,10 @@ function setup() {
   
 function draw() {
   // Recap 1: Repeating Circles
-  Circle(75,200,100);
-  Circle(225,200,100);
-  Circle(375,200,100);
-  Circle(525,200,100);
+  circle(75,200,100);
+  circle(225,200,100);
+  circle(375,200,100);
+  circle(525,200,100);
 
   // Task 1: Colour Gradient
 
