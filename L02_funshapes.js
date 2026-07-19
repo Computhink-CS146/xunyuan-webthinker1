@@ -21,6 +21,7 @@ function draw() {
   rect(150,250,90,30 );
 
   // Challenge 4: A rocketship using triangle() function
+
   fill ("gold")
   triangle(70,250,100,150,75,99);
 
