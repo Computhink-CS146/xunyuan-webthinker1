@@ -6,7 +6,7 @@ function setup() {
   
 function draw() {
   // Recap 1: Repeating Circles
-  CSSNumericValue()
+  C
 
   // Task 1: Colour Gradient
 
