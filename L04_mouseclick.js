@@ -7,6 +7,6 @@ function draw(){
      for (let i = 0; i < 6;i++)
         fill('red');
         circle(xpos,50,60);
-        xpos = xpos+50
+        xpos = xpos+50;
 }
 
