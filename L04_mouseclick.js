@@ -1,7 +1,7 @@
 function setup() {
     createCanvas (600,400);
     background ('pink');
-    noLoop();
+    // noLoop();
 }
 let shapecolor = "purple";
 function draw(){
