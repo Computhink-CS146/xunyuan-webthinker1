@@ -18,7 +18,9 @@ function mouseReleased(){
 
 
 }
-
+function mouseMoved(){
+    
+}
 
 // function draw() {
 //     let xpos = 350;
