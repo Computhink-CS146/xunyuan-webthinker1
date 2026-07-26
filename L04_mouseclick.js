@@ -1,7 +1,7 @@
 function setup() {
     createCanvas (600,400);
     background ('pink');
-    noLoop()
+    noLoop();
 }
 function draw() {
     let xpos = 350;
@@ -13,7 +13,7 @@ function draw() {
         circle(xpos,ypos,50);
         xpos = xpos+50;
         ypos = ypos+50;
-        ggColor = ggColor + 50
+        ggColor = ggColor + 50;
         }
 }   
 
