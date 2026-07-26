@@ -4,7 +4,9 @@ function setup() {
     noLoop();
 }
 let shapecolor = ('purple')
-function mousepressed(){}
+function mousepressed(){
+    
+}
 // function draw() {
 //     let xpos = 350;
 //     let ypos = 50;
