@@ -19,7 +19,7 @@ function mouseReleased(){
 
 }
 function mouseMoved(){
-    
+    cricle(mouse)
 }
 
 // function draw() {
