@@ -4,6 +4,7 @@ function setup() {
     fill (shapecolor)
     noStroke();
     // noLoop();
+    
 }
 let shapecolor = "white";
 // function draw(){
