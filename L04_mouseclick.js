@@ -8,7 +8,7 @@ function draw() {
     let ggColor = 0;
 
      for (let i = 1; i < 6;i++){
-        fill('red');
+        fill(0,ggColor,0);
         circle(xpos,ypos,50);
         xpos = xpos+50;
         ypos = ypos+50;
