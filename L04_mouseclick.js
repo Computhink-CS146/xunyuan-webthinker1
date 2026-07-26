@@ -8,7 +8,7 @@ function mousepressed(){
     shapecolor = color(random(0,225),random(0,225),random(0,225));
 }
 function mouseReleased(){
-    shapecolor
+    shapecolor = "white"
 }
 // function draw() {
 //     let xpos = 350;
