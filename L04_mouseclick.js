@@ -8,5 +8,6 @@ function draw(){
         fill('red');
         circle(xpos,50,60);
         xpos = xpos+50;
-}
+    }   
+
 
