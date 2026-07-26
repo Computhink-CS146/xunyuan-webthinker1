@@ -1,6 +1,7 @@
 function setup() {
     createCanvas (600,400);
     background ('pink');
+    noLoop()
 }
 function draw() {
     let xpos = 350;
