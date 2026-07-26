@@ -4,6 +4,7 @@ function setup() {
     noLoop();
 }
 let shapecolor = ('purple')
+
 // function draw() {
 //     let xpos = 350;
 //     let ypos = 50;
