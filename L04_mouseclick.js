@@ -5,6 +5,7 @@ function setup() {
 function draw() {
     let xpos = 350;
     let ypos = 50;
+    let ggColor = 0;
 
      for (let i = 1; i < 6;i++){
         fill('red');
