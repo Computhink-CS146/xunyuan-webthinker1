@@ -3,7 +3,7 @@ function setup() {
     background ('pink');
     noLoop();
 }
-let shapecolor = ('white')
+let shapecolor = ('purple')
 function draw(){
     fill(shapecolor);
     circle(100, 150, 70);
