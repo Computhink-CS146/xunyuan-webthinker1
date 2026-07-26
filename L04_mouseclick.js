@@ -3,7 +3,7 @@ function setup() {
     background ('pink')
     function draw(){
         for(let i = 0; i < 5;i++)
-            fill(67)
+            fill('red')
             circle(200,300,400)
     }
 }
