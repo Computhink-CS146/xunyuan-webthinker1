@@ -9,7 +9,7 @@ function draw(){
     circle(width/2, height/2, 200);
 }
 function mousepressed(){
-    shapecolor = color(random(0,255),random(0,255),random(0,225));
+    shapecolor = color(random(0,255),random(0,255),random(0,255));
 }
 function mouseReleased(){
     shapecolor = "white";
