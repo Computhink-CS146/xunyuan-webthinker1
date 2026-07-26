@@ -5,7 +5,7 @@ function setup() {
 }
 let shapecolor = ('purple')
 function mousepressed(){
-    
+    shapecolor = color
 }
 // function draw() {
 //     let xpos = 350;
