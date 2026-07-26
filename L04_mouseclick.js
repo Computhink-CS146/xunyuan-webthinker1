@@ -5,6 +5,6 @@ function setup() {
 function draw(){
      for(let i = 0; i < 5;i++)
         fill('red')
-        circle(200,200,400)
+        circle(50,50,60)
 }
 
