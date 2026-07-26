@@ -6,7 +6,7 @@ function setup() {
 let shapecolor = ('purple')
 function draw(){
     fill(shapecolor);
-    circle(100, 150, 70);
+    circle(width/2, height, 70);
 }
 function mousepressed(){
     shapecolor = color(random(0,225),random(0,225),random(0,225));
