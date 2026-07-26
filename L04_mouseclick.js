@@ -4,6 +4,7 @@ function setup() {
     noLoop();
 }
 let shapecolor = ('purple')
+circle
 function mousepressed(){
     shapecolor = color(random(0,225),random(0,225),random(0,225));
 }
