@@ -3,8 +3,8 @@ function setup() {
     background ('pink');
 }
 function draw() {
-    let xpos = 50;
-    let ypos = 50
+    let xpos = 350;
+    let ypos = 50;
 
      for (let i = 1; i < 6;i++){
         fill('red');
