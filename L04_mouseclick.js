@@ -19,7 +19,7 @@ function mouseReleased(){
 
 
 }
-function mouseMoved(){
+function mouseDragged(){
     circle(mouseX, mouseY, 20);
 }
 
