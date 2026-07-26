@@ -4,6 +4,6 @@ function setup() {
     function draw(){
         for(let i = 0; i < 5;i++)
             fill(67)
-        circle
+        circle(200,300,400)
     }
 }
