@@ -20,7 +20,7 @@ function mouseReleased(){
 
 }
 function mouseDragged(){
-    circle(mouseX, mouseY, 20);
+    circle(mouseX, mouseY, 5);
 }
 
 // function draw() {
