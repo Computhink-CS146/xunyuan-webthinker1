@@ -4,12 +4,13 @@ function setup() {
 }
 function draw() {
     let xpos = 50;
+    let ypos = 50
 
      for (let i = 1; i < 6;i++){
         fill('red');
         circle(xpos,50,60);
         xpos = xpos+50;
-        ypos = ypos+50:
+        ypos = ypos+50;
         }
 }   
 
