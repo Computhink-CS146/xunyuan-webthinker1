@@ -3,7 +3,7 @@ function setup() {
     background ('pink');
     noLoop();
 }
-let shapecolor = ('pink')
+let shapecolor = ('purple')
 // function draw() {
 //     let xpos = 350;
 //     let ypos = 50;
