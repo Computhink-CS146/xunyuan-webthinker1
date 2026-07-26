@@ -2,7 +2,7 @@ function setup() {
     createCanvas (400,400);
     background ('grey');
     fill (shapecolor)
-    noStroke
+    noStroke();
     // noLoop();
 }
 let shapecolor = "white";
@@ -10,12 +10,12 @@ let shapecolor = "white";
 //     fill(shapecolor);
 //     circle(width/2, height/2, 200);
 // }
-function mousePressed(){
-    shapecolor = color(random(0,255),random(0,255),random(0,255));
-}
-function mouseReleased(){
-    shapecolor = "white";
-}
+// function mousePressed(){
+//     shapecolor = color(random(0,255),random(0,255),random(0,255));
+// }
+// function mouseReleased(){
+//     shapecolor = "white";
+// }
 // function draw() {
 //     let xpos = 350;
 //     let ypos = 50;
