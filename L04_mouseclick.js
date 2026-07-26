@@ -1,13 +1,13 @@
 function setup() {
-    createCanvas (600,400);
-    background ('pink');
+    createCanvas (400,400);
+    background ('grey');
     // noLoop();
 }
-let shapecolor = "purple";
-function draw(){
-    fill(shapecolor);
-    circle(width/2, height/2, 200);
-}
+// let shapecolor = "purple";
+// function draw(){
+//     fill(shapecolor);
+//     circle(width/2, height/2, 200);
+// }
 function mousePressed(){
     shapecolor = color(random(0,255),random(0,255),random(0,255));
 }
