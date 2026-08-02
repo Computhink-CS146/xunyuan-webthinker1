@@ -9,6 +9,7 @@ function setup() {
 }
 
 function mousePressed() {
+    size = 5;
     shapecolor = color(random(0,255),random(0,255),random(0,255));
 
 
