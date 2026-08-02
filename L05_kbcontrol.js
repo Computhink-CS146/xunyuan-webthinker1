@@ -3,6 +3,6 @@ function setup() {
     background ('grey')
 }
 
-function sigma() {
-    
+function () {
+
 }
