@@ -7,7 +7,7 @@ function setup() {
 }
 let shapecolor = ("white")
 function mousePressed() {
-    shapecolor = color(random())
+    shapecolor = color(random(1,255))
 
 
 
