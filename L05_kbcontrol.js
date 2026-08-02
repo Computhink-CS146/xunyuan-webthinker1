@@ -4,6 +4,9 @@ function setup() {
 }
 
 function mousePressed() {
-    
 
+
+}
+function mouseDragged(){
+    
 }
