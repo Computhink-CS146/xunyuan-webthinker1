@@ -1,7 +1,7 @@
 function setup() {
     createCanvas(400,600)
     background ('grey')
-    FileList()
+    fill(shapecolor)
 
 }
 let shapecolor = ("white")
