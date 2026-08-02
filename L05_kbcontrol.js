@@ -13,6 +13,6 @@ function mousePressed() {
 
 }
 function mouseDragged(){
-    shapecolor = ('white');
+    Circle
 
 }
