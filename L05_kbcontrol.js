@@ -3,7 +3,7 @@ function setup() {
     background ('grey')
 
 }
-let setup
+let shapecolor
 function mousePressed() {
 
 
