@@ -1,3 +1,4 @@
+let su
 let shapecolor = ("white")
 function setup() {
     createCanvas(400,600);
