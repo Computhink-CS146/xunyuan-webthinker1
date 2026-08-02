@@ -13,5 +13,6 @@ function mousePressed() {
 
 }
 function mouseDragged(){
+    shapecolor = ('white')
 
 }
