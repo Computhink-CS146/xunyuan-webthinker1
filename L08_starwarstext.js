@@ -11,6 +11,7 @@ let storyText = [
 function preload(){
     volume = loadSound('sfx/star_wars_theme_8_bit.mp3');
 
+
 }
  function setup(){
     background(0);
