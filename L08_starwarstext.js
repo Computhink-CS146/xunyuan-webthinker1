@@ -1,4 +1,4 @@
 
 let storyText = [
-    "A long time sg"
+    "A long time ago in a galaxy far"
 ]
