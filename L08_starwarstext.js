@@ -7,7 +7,7 @@ function setup() {
 
 }
 let ypos = 400;
-
+let lineGap = 60
 function draw() {
     background(220);
     // text(name);
