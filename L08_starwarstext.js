@@ -9,7 +9,7 @@ let storyText = [
 
 ]
  function setup(){
-    
+    background(0)
 
  }
     
