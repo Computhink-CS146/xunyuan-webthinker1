@@ -28,8 +28,8 @@ function draw() {
 
     }
     ypos == 0,0;
-    if (ypos < -list.length * lineGap) {
-        ypoa
+    if (ypos < -list.length * lineGap) { 
+        ypos = 
     }
 
     }
