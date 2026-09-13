@@ -7,7 +7,8 @@ function setup() {
 
 }
 let ypos = 400;
-let lineGap = 60
+let lineGap = 60;
+
 function draw() {
     background(220);
     // text(name);
@@ -23,6 +24,7 @@ function draw() {
     textSize(24);
     textAlign(CENTER);
     for(let i=0; i<FileList,length;i++) {
+        
 
 
 
