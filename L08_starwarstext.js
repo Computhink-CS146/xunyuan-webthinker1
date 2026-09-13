@@ -20,8 +20,8 @@ function draw() {
     // text("my fav foods:")
     // for(let i=0; i<FileList,length;i++) {
         // text( (i+i) +","+list[i],50,i*50)
-    FileList(255,255,0);
-    
+    Fill(255,255,0);
+
 
     }
 
