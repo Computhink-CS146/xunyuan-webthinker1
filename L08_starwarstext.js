@@ -11,7 +11,8 @@ let storyText = [
 let ypos = 400;
 let lineGap = 60;
 function preload(){
-    volume = loadSound('asses/star_wars_theme_8_bit.mp3');
+    volume = loadSound('assets/star_wars_theme_8_bit.mp3');
+    
 
 
 }
