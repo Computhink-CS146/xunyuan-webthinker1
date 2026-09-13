@@ -9,7 +9,7 @@ let storyText = [
 
 ]
 function preload(){
-    sfx
+    volum
 }
  function setup(){
     background(0);
@@ -17,5 +17,7 @@ function preload(){
 
  }
 
- function draw()
+ function draw(){
+
+ }
     
