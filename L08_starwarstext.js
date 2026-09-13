@@ -9,6 +9,6 @@ function draw() {
     background(220);
     // text(name);
     textSize(20);
-    text()
+    text("XY",50,50)
 
 }
