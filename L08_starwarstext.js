@@ -17,6 +17,6 @@ function draw() {
     // task 2
     textSize(20);
     textAlign(LEFT);
-    Text("")
+    text("my fav foods")
 
 }
