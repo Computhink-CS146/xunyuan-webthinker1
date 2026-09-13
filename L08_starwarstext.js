@@ -24,11 +24,11 @@ function preload(){
     textSize(24);
     textAlign(CENTER);
     for(let i=0; i<storyText.length;i++) {
-         text( (i+1) +"."+list[i],width/2,ypos + i * lineGap);
+         text( (i+1) +"."+storyText[i],width/2,ypos + i * lineGap);
 
     }
     ypos -= 0.6;
-    if (ypos < -list.length * lineGap) { 
+    if (ypos < -st.length * lineGap) { 
         ypos = height;
     }
 
