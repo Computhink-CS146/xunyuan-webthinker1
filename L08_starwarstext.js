@@ -10,9 +10,10 @@ function setup() {
 function draw() {
     background(220);
     // text(name);
-    textSize(20);
-    text("XY",50,50);
-    textSize(67);
-    arrname[0];
+    // textSize(20);
+    // text("XY",50,50);
+    // textSize(67);
+    // arrname[0];\
+    
 
 }
