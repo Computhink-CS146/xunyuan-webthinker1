@@ -9,7 +9,7 @@ let storyText = [
 
 ]
 function preload(){
-    volume = loadsooun
+    volume = loadSound('')
 }
  function setup(){
     background(0);
