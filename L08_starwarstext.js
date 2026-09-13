@@ -1,5 +1,6 @@
 // let name = "XY";
 let arrname = ["pizza","burger","sushi",];
+
 function setup() {
     createCanvas(400,400);
     
