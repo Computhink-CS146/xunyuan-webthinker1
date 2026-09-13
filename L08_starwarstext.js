@@ -10,7 +10,7 @@ let storyText = [
 ]
 let ypos = 400;
 let lineGap = 60;
-let
+let started = false;
 function preload(){
     volume = loadSound('assets/star_wars_theme_8_bit.mp3');
 
