@@ -6,5 +6,7 @@ let storyText = [
     "our band starts here",
     "anything is possible",
     "HATSUNE MIKU COLORFUL STAGEEEEEE!!!"
-    
+
 ]
+
+    
