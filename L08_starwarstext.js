@@ -9,11 +9,11 @@ let storyText = [
 
 ]
 function preload(){
-    
+    SVGFEColorMatrixElement,
 }
  function setup(){
     background(0);
-    
+
 
  }
     
