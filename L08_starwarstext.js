@@ -8,7 +8,8 @@ let storyText = [
     "HATSUNE MIKU COLORFUL STAGEEEEEE!!!"
 
 ]
-let ypos 
+let ypos = 400;
+let lineGap = 60;
 function preload(){
     volume = loadSound('sfx/star_wars_theme_8_bit.mp3');
 
