@@ -8,7 +8,9 @@ let storyText = [
     "HATSUNE MIKU COLORFUL STAGEEEEEE!!!"
 
 ]
-funct
+function preload(){
+    
+}
  function setup(){
     background(0);
 
