@@ -27,7 +27,7 @@ function draw() {
          text( (i+i) +","+list[i],width/2,ypos + i * lineGap);
 
     }
-    ypos == 0,0;
+    ypos -= 0.6;
     if (ypos < -list.length * lineGap) { 
         ypos = height;
     }
