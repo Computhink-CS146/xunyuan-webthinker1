@@ -28,18 +28,34 @@ function preload(){
 
  function draw(){
         background(0);
-        fill(255,255,0);
-    textSize(24);
-    textAlign(CENTER);
-    for(let i=0; i<storyText.length;i++) {
+        if (started){
+            fill(255,255,0);
+            textSize(24);
+        textAlign(CENTER);
+          for(let i=0; i<storyText.length;i++) {
          text( (i+1) +"."+storyText[i],width/2,ypos + i * lineGap);
 
-    }
-    ypos -= 0.6;
-    if (ypos < -storyText.length * lineGap) { 
+        }
+        ypos -= 0.6;
+        if (ypos < -storyText.length * lineGap) { 
         ypos = height;
+        }
+        }else{
+            fill(255,255,0);
+            textSize(24);
+            textAlign(CENTER);
+            text("CLICK TO START SHOW", width/2,height/2);
+        }
+
+
+ }
+ function mousePresed(){
+    if (started === false){
+        started = true;
+        volume.loop();
+
     }
-
-
+    
+    
  }
     
