@@ -20,7 +20,7 @@ function draw() {
     // textSize(20);
     // textAlign(LEFT);
     // text("my fav foods:")
-    Fill(255,255,0);
+    fill(255,255,0);
     textSize(24);
     textAlign(CENTER);
     for(let i=0; i<FileList,length;i++) {
