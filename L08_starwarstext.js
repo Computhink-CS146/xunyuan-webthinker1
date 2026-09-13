@@ -4,5 +4,6 @@ let storyText = [
     "far away",
     "there is a world called sekai",
     "our band starts here",
-    "any"
+    "anything is possible",
+    ""
 ]
