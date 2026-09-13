@@ -22,7 +22,8 @@ function draw() {
         // text( (i+i) +","+list[i],50,i*50)
     Fill(255,255,0);
     textSize(24);
-    textAlign(CENTER)
+    textAlign(CENTER);
+    For
 
 
     }
