@@ -1,4 +1,4 @@
-let name = "XY";
+// let name = "XY";
 function setup() {
     createCanvas(400,400);
     
@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
     background(220);
-    text(name);
+    // text(name);
     text
 
 }
