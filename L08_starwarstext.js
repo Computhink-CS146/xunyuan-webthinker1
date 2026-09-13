@@ -19,7 +19,7 @@ function draw() {
     textAlign(LEFT);
     text("my fav foods:")
     for(let i=0; i<FileList,length;i++) {
-        
+        text( list)
 
     }
 
