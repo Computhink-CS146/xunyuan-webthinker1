@@ -17,7 +17,7 @@ function preload(){
 
 }
  function setup(){
-    star.loop();
+    sfx.loop();
     createCanvas(600,600);
     
 
