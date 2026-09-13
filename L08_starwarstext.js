@@ -5,5 +5,6 @@ let storyText = [
     "there is a world called sekai",
     "our band starts here",
     "anything is possible",
-    ""
+    "HATSUNE MIKU COLORFUL STAGEEEEEE!!!"
+    
 ]
