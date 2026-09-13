@@ -27,7 +27,7 @@ function draw() {
          text( (i+i) +","+list[i],width/2,ypos + i * lineGap);
 
     }
-
+    ypos ==
 
     }
 
