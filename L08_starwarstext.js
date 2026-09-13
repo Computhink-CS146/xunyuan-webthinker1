@@ -17,7 +17,7 @@ function preload(){
 
 }
  function setup(){
-    sfx.loop();
+    volume.loop();
     createCanvas(600,600);
     
 
