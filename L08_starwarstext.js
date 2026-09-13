@@ -1,5 +1,5 @@
 // let name = "XY";
-
+let arrname = []
 function setup() {
     createCanvas(400,400);
     
