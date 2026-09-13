@@ -10,7 +10,7 @@ let ypos = 400;
 let lineGap = 60;
 
 function draw() {
-    background(220);
+    background(0);
     // text(name);
     // textSize(20);
     // text("XY",50,50);
