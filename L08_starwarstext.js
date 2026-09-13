@@ -22,6 +22,7 @@ function draw() {
     textSize(24);
     textAlign(CENTER);
     for(let i=0; i<FileList,length;i++) {
+
         
 
         // text( (i+i) +","+list[i],50,i*50)
