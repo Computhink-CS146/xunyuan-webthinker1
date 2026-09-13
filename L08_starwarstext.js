@@ -9,11 +9,13 @@ let storyText = [
 
 ]
 function preload(){
-    
+    sfx
 }
  function setup(){
     background(0);
 
 
  }
+
+ function draw()
     
