@@ -17,12 +17,13 @@ let lineGap = 60;
 // }
  function setup(){
     createCanvas(600,600);
-    background(0);
+
 
 
  }
 
  function draw(){
+        background(0);
         fill(255,255,0);
     textSize(24);
     textAlign(CENTER);
