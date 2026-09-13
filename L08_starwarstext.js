@@ -13,6 +13,6 @@ function draw() {
     textSize(20);
     text("XY",50,50);
     textSize(67);
-    arrname[0]
+    arrname[0];
 
 }
