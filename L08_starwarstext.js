@@ -8,8 +8,9 @@ let storyText = [
     "HATSUNE MIKU COLORFUL STAGEEEEEE!!!"
 
 ]
+funct
  function setup(){
-    background(0)
+    background(0);
 
  }
     
