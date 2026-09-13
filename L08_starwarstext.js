@@ -15,6 +15,6 @@ function draw() {
     // textSize(67);
     // arrname[0];\
     // task 2
-    
+    textSize(20)
 
 }
