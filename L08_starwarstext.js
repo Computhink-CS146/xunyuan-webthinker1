@@ -14,6 +14,7 @@ function draw() {
     // text("XY",50,50);
     // textSize(67);
     // arrname[0];\
+    // task 2
     
 
 }
