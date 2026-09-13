@@ -20,6 +20,18 @@ function preload(){
  }
 
  function draw(){
+        fill(255,255,0);
+    textSize(24);
+    textAlign(CENTER);
+    for(let i=0; i<list.length;i++) {
+         text( (i+1) +"."+list[i],width/2,ypos + i * lineGap);
+
+    }
+    ypos -= 0.6;
+    if (ypos < -list.length * lineGap) { 
+        ypos = height;
+    }
+
 
  }
     
