@@ -49,7 +49,7 @@ function preload(){
 
 
  }
- function mousePresed(){
+ function mousePressed(){
     if (started === false){
         started = true;
         volume.loop();
