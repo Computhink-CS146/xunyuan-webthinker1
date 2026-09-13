@@ -13,6 +13,7 @@ function preload(){
 }
  function setup(){
     background(0);
+    
 
  }
     
