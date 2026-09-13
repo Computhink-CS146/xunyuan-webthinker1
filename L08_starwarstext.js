@@ -10,6 +10,6 @@ function draw() {
     // text(name);
     textSize(20);
     text("XY",50,50);
-    textSize(67);
+    // textSize(67);
 
 }
