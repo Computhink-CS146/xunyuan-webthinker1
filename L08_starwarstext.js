@@ -1,4 +1,4 @@
-let name = "xY"
+let name = "XY";
 function setup() {
     createCanvas(400,400);
     
