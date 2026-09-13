@@ -16,6 +16,6 @@ function draw() {
     // arrname[0];\
     // task 2
     textSize(20);
-    textAlign
+    textAlign(LEFTQ)
 
 }
