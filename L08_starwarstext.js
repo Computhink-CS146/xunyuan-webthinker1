@@ -1,2 +1,4 @@
 
-let storyText
+let storyText = [
+    ""
+]
