@@ -28,7 +28,7 @@ function preload(){
 
     }
     ypos -= 0.6;
-    if (ypos < -st.length * lineGap) { 
+    if (ypos < -storyText.length * lineGap) { 
         ypos = height;
     }
 
