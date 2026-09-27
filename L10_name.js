@@ -47,6 +47,6 @@ function updateMyVar() {
 }
 
 function updateMyAge() {
-    someAge = ageInput.v
+    someAge = ageInput.value();
 
 }
