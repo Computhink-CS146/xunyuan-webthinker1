@@ -25,7 +25,7 @@ function draw(){
     stroke('orange');
     strokeWeight(8);
     fill("white");
-   rect(120,80,300,80,20,20);
+   rect(120,80,300,100,20,20);
    fill('white');
     textSize(34);
     text(someVar, width/2-50, 80); 
