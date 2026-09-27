@@ -27,7 +27,8 @@ function draw(){
     fill();
     textAlign(LEFT,CENTER);
     stroke('');
-    strokeWeight(0)
+    strokeWeight(0);
+    text("te")
 
 }
 
