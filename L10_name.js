@@ -25,7 +25,7 @@ function draw(){
 
     textSize(14);
     fill();
-    textAlign(lEFT)
+    textAlign(LEFT,CENTER);
 
 }
 
