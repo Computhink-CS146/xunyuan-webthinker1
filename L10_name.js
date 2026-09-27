@@ -24,7 +24,7 @@ function draw(){
     background('lightblue');
     stroke('orange');
     strokeWeight(8);
-    fill("white")
+    fill("white");
    rect(120,80,300,80,20,20);
    fill('white');
     textSize(34);
