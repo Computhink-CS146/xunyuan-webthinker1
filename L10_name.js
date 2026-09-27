@@ -30,7 +30,7 @@ function draw(){
     strokeWeight(0);
     text("what is your name?", 70, height/2+10);
     text("May I inquire your age?");
-    tex
+    text
 
 }
 
