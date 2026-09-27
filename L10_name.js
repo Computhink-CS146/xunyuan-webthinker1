@@ -4,6 +4,7 @@ let someVar = "";
 let ageInput;
 let someAge = "";
 
+
 function setup(){
     createCanvas(600,400);
     background('lightblue');
