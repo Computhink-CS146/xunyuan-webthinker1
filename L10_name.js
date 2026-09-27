@@ -15,6 +15,7 @@ function setup(){
 
 function draw(){
     background('lightblue');
-    textS
+    textSize(34);
+    text
 
 }
