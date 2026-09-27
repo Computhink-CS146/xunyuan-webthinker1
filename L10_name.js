@@ -2,8 +2,9 @@
 
 
 function setup(){
-    createCanvas(600,400)
-    background('lightblue')
+    createCanvas(600,400);
+    background('lightblue');
+    
 }
 
 
