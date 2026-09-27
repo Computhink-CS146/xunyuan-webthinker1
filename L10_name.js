@@ -8,7 +8,7 @@ function setup(){
     textAlign(CENTER,CENTER);
     textInput = createInput();
     textInput.position(width/2-100, height/2);
-    
+    textInput.inpu
 
 }
 
