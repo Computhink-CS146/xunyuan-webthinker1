@@ -13,7 +13,8 @@ function setup(){
     textInput.input(updateMyVar);
 
     ageInput = createInput();
-    ageInput.position(width/2-100, height/)
+    ageInput.position(width/2-100, height/2 + 40);
+    
 
 
 }
