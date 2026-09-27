@@ -5,7 +5,7 @@ let someVar;
 function setup(){
     createCanvas(600,400);
     background('lightblue');
-    textAlign
+    textAlign(CustomElementRegistry,CNTE)
 
 }
 
