@@ -31,6 +31,7 @@ function draw(){
     text("what is your name?", 70, height/2+10);
     text("May I inquire your age?",70,height/2);
     
+    
 
 }
 
