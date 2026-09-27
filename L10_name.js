@@ -27,7 +27,7 @@ function draw(){
     fill();
     textAlign(LEFT,CENTER);
     stroke('');
-    str
+    strokeWeight(0)
 
 }
 
