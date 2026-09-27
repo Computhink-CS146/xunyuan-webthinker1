@@ -1,10 +1,11 @@
 
 let textInput;
-text someVar;
+let someVar;
 
 function setup(){
     createCanvas(600,400);
     background('lightblue');
+    textAlign
 
 }
 
