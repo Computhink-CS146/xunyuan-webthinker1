@@ -18,7 +18,7 @@ function setup(){
     ageInput.input(updateMyAge);
 
     colorPicker = createColorPicker("lightblue");
-    colorPicker
+    colorPicker.position
 
 
 }
