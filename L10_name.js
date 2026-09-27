@@ -1,5 +1,6 @@
 
-let text
+let textInput;
+text someVar;
 
 function setup(){
     createCanvas(600,400);
