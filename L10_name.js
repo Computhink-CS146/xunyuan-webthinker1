@@ -36,7 +36,7 @@ function draw(){
     stroke('purple');
     strokeWeight(0);
     text("what is your name?", 70, height/2+5);
-    text("May I inquire your age?",60,height/2+35);
+    text("May I inquire your age?",45,height/2+35);
 
     
 
