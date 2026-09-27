@@ -16,6 +16,6 @@ function setup(){
 function draw(){
     background('lightblue');
     textSize(34);
-    text
+    textInput(someVar, width/2)
 
 }
