@@ -2,7 +2,7 @@
 let textInput;
 let someVar = "";
 let ageInput;
-let someAge = 2;
+let someAge = 0;
 
 function setup(){
     createCanvas(600,400);
