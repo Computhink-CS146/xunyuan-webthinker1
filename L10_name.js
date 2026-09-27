@@ -29,7 +29,7 @@ function draw(){
    fill('white');
     textSize(34);
     text(someVar, width/2-50, 120); 
-    text(someAge, width/2-50, 90);
+    text(someAge, width/2-50, 150);
 
     textSize(14);
     fill("black");
