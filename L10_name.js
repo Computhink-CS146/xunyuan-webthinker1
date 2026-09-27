@@ -25,7 +25,7 @@ function setup(){
 
 
 function draw(){
-    background(colorPicker);
+    background(colorPicker.value);
     stroke('orange');
     strokeWeight(8);
     fill("white");
