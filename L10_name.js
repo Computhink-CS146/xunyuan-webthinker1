@@ -17,7 +17,7 @@ function draw(){
     background('lightblue');
     stroke(67);
     strokeWeight(8);
-    fill('blue')
+    
    rect(120,80,300,80,20,20);
     textSize(34);
     text(someVar, width/2, height/2-80); 
