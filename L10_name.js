@@ -1,6 +1,6 @@
 
 let textInput;
-let someVar ;
+let someVar = "";
 let ageInput;
 let someAge = 2;
 
