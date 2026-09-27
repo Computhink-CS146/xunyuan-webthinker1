@@ -7,7 +7,8 @@ function setup(){
     background('lightblue');
     textAlign(CENTER,CENTER);
     textInput = createInput();
-    textInput.position(width/2)
+    textInput.position(width/2-100, height/2);
+    
 
 }
 
