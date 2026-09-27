@@ -15,7 +15,7 @@ function setup(){
 
 function draw(){
     background('lightblue');
-    stroke('lig');
+    stroke('pu');
     strokeWeight(8);
     
    rect(120,80,300,80,20,20);
