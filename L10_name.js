@@ -28,7 +28,7 @@ function draw(){
     textAlign(LEFT,CENTER);
     stroke('');
     strokeWeight(0);
-    text("te")
+    text("what is your name?")
 
 }
 
