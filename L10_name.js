@@ -26,7 +26,8 @@ function draw(){
     textSize(14);
     fill();
     textAlign(LEFT,CENTER);
-    stroke()
+    stroke('');
+    str
 
 }
 
