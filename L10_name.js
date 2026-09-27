@@ -3,7 +3,7 @@ let textInput;
 let someVar = "";
 let ageInput;
 let someAge = "";
-let colorpicker;
+let colorPicker;
 
 function setup(){
     createCanvas(600,400);
