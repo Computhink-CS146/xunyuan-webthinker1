@@ -31,7 +31,7 @@ function draw(){
     text(someVar, width/2, height/2-80); 
 
     textSize(14);
-    fill();
+    fill("black");
     textAlign(LEFT,CENTER);
     stroke('purple');
     strokeWeight(0);
