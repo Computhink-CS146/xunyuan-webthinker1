@@ -10,6 +10,8 @@ function setup(){
     textInput.position(width/2-100, height/2);
     textInput.input(updateMyVar);
 
+    textInput = create
+
 }
 
 
