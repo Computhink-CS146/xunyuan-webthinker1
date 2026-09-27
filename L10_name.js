@@ -13,6 +13,7 @@ function setup(){
     textInput.input(updateMyVar);
 
     textInput = createInput();
+    
 
 
 }
