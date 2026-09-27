@@ -19,3 +19,7 @@ function draw(){
     textInput(someVar, width/2, height/2-80); 
 
 }
+
+function updateMyVar() {
+    
+}
