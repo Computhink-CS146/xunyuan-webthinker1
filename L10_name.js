@@ -19,7 +19,7 @@ function draw(){
     strokeWeight(8);
     
    rect(120,80,300,80,20,20);
-   fill()
+   fill('white');
     textSize(34);
     text(someVar, width/2, height/2-80); 
 
