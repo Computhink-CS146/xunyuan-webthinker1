@@ -1,6 +1,8 @@
 
 let textInput;
 let someVar;
+let ageInput;
+let
 
 function setup(){
     createCanvas(600,400);
@@ -11,7 +13,7 @@ function setup(){
     textInput.input(updateMyVar);
 
     textInput = createInput();
-    
+
 
 }
 
