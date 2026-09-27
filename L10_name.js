@@ -28,8 +28,8 @@ function draw(){
    rect(120,80,300,80,20,20);
    fill('white');
     textSize(34);
-    text(someVar, width/2, 80); 
-    text(someAge, width/2, 130);
+    text(someVar, width/2-50, 80); 
+    text(someAge, width/2-50, 130);
 
     textSize(14);
     fill("black");
