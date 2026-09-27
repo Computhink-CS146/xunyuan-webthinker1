@@ -6,7 +6,8 @@ function setup(){
     createCanvas(600,400);
     background('lightblue');
     textAlign(CENTER,CENTER);
-    textInput = creat
+    textInput = createInput();
+    
 
 }
 
