@@ -8,7 +8,7 @@ function setup(){
     textInput = createInput;
     textInput.position(width/2,100);
 
-    button = createBu
+    button = createButton("click me")
 
 }
 
