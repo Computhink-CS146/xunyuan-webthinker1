@@ -40,7 +40,7 @@ function draw(){
     text("enter a verb:",width/2-50,160);
     text("enter an adj:",width/2-50,210);
     text("enter an adverb: ",width/2-50,260);
-    text("enter a verb:",width/2-50,160);
+    text("enter a place:",width/2-50,160);
     
 
 }
