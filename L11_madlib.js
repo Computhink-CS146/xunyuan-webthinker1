@@ -9,7 +9,8 @@ function setup(){
     createCanvas(700,800);
     textInput = createInput();
     textInput.position(width/2,100);
-    verbInput = createi
+    verbInput = createInput();
+    
 
     button = createButton("click me");
     button.position(width/2, 135);
