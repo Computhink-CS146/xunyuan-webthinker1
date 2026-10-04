@@ -30,8 +30,8 @@ function setup(){
     storyTemplates = [
         "The (adj) (noun) decided to (verb) (adverb) at the place.",
         "One day, a (adj) (noun) wanted to (verb) (adverb) in (place)",
-        "Did you hear about (adj) (noun) that tried to (verb) (adv) near the (place)",
-        "(adj) (noun) is at the (place) (adverb)"
+        "Did you hear about (adj) (noun) that tried to (verb) (adverb) near the (place)",
+        "(adj) (noun) is at the (place)  (adverb)"
     ]
 
 }
