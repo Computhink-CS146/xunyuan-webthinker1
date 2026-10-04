@@ -21,7 +21,7 @@ function draw(){
 
 
     textSize(18);
-    textAlign(CustomElementRegi)
+    textAlign(CENTER,RIGHT)
     text("name:",width/2-50,110);
 
 }
