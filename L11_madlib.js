@@ -13,8 +13,8 @@ function setup(){
     textInput.position(width/2,100);
     verbInput = createInput();
     verbInput.position(width/2,150);
-    verbInput = createInput();
-    verbInput.position(width/2,150);
+    adjInputInput = createInput();
+    adjInputInput.position(width/2,150);
     verbInput = createInput();
     verbInput.position(width/2,150);
 
