@@ -28,7 +28,7 @@ function setup(){
     button.mousePressed(updateText);
 
     storyTemplates = [
-        "The (a"
+        "The (adj)(noun)"
     ]
 
 }
