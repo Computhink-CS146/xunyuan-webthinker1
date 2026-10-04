@@ -20,7 +20,7 @@ function draw(){
 
 
 
-    
+    textAlign(CE)
     text()
 
 }
