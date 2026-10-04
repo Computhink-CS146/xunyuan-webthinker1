@@ -18,7 +18,7 @@ function setup(){
     ];
 
     storyText = random(storyTemplates);
-    storyText = storyText.replace("(noun)","Dog");
+    storyText = storyText.replace("(noun)",nounInput. value);
     storyText = storyText.replace("(verb)","jump");
     storyText = storyText.replace("(adj)","sad");
     storyText = storyText.replace("(adverb)","happily");
