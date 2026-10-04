@@ -21,7 +21,7 @@ function setup(){
     storyText = storyText.replace("(noun)","Dog");
     storyText = storyText.replace("(verb)","jump");
     storyText = storyText.replace("(adj)","sad");
-    storyText = storyText.replace("(verb)","jump");
+    storyText = storyText.replace("(adverb)","happily");
     storyText = storyText.replace("(verb)","jump");
     createCanvas(700,800);
     textInput = createInput();
