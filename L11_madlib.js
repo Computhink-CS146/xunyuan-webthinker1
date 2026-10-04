@@ -20,7 +20,8 @@ function draw(){
 
 
 
-    textSize(18)
+    textSize(18);
+    strokeweight
     text("name:",width/2-50,110);
 
 }
