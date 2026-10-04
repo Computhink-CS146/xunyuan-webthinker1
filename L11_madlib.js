@@ -21,8 +21,8 @@ function setup(){
     storyText = storyText.replace("(noun)",nounInput. value());
     storyText = storyText.replace("(verb)",verbInput.value());
     storyText = storyText.replace("(adj)",adjInput.value());
-    storyText = storyText.replace("(adverb)",adverbInput);
-    storyText = storyText.replace("(place)","park");
+    storyText = storyText.replace("(adverb)",adverbInput());
+    storyText = storyText.replace("(place)",place);
     createCanvas(700,800);
     textInput = createInput();
     textInput.position(width/2,100);
