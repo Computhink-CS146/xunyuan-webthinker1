@@ -15,10 +15,10 @@ function setup(){
     verbInput.position(width/2,150);
     adjInput = createInput();
     adjInput.position(width/2,200);
-    // adverbInput = createInput();
-    // adverbInput.position(width/2,250);
-    // placeInput = createInput();
-    // placeInput.position(width/2,300);
+    adverbInput = createInput();
+    adverbInput.position(width/2,250);
+    placeInput = createInput();
+    placeInput.position(width/2,300);
 
 
 
