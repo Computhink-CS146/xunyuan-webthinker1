@@ -21,6 +21,6 @@ function draw(){
 
 
     
-    text("type:",width/2-50,70);
+    text("type:",width/2-50,110);
 
 }
