@@ -15,8 +15,8 @@ function setup(){
     verbInput.position(width/2,150);
     adjInputInput = createInput();
     adjInput.position(width/2,150);
-    advInput = createInput();
-    verbInput.position(width/2,150);
+    adverbInput = createInput();
+    adverbInputInput.position(width/2,150);
 
 
     button = createButton("click me");
