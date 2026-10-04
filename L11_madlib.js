@@ -1,4 +1,4 @@
-let textInput;
+let nounInput;
 let verbInput;
 let adjInput;
 let adverbInput;
@@ -20,7 +20,7 @@ function setup(){
 
     createCanvas(700,800);
     textInput = createInput();
-    textInput.position(width/2,100);
+    nounInput.position(width/2,100);
     verbInput = createInput();
     verbInput.position(width/2,150);
     adjInput = createInput();
