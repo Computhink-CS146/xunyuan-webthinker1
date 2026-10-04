@@ -50,6 +50,6 @@ function updateText() {
     console.log("verb:," +verbInput.value());
     console.log("adj:," +adjInput.value());
     console.log("adverb:," +adverbInput.value());
-    console.log("place:," +ppInput.value());
+    console.log("place:," +placeInput.value());
 
 }
