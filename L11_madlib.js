@@ -23,7 +23,7 @@ function setup(){
 
 
     button = createButton("click me");
-    button.position(width/2, 600);
+    button.position(width/2, 350);
     button.mousePressed(updateText);
 
 }
