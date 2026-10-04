@@ -23,7 +23,7 @@ function draw(){
 
     textSize(18);
     textAlign(RIGHT,CENTER);
-    text("noun:",width/2-50,110);
+    text("enter a noun:",width/2-50,110);
 
 }
 
