@@ -1,4 +1,5 @@
-let 
+let textInput;
+let butto;
 
 
 
