@@ -17,7 +17,8 @@ function setup(){
         "(adj) (noun) is at the (place) (verb) (adverb)"
     ];
 
-    storyText = random()
+    storyText = random(storyTemplates);
+    
     createCanvas(700,800);
     textInput = createInput();
     textInput.position(width/2,100);
