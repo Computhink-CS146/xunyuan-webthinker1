@@ -1,3 +1,7 @@
+let 
+
+
+
 function setup(){
     createCanvas(700,800);
     
