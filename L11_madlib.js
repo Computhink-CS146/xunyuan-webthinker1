@@ -21,7 +21,7 @@ function draw(){
 
 
     textSize(18);
-    textAlign(CENTER,RIGHT)
+    textAlign(RIGHT,CENTER);
     text("name:",width/2-50,110);
 
 }
