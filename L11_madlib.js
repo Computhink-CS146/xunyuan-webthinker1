@@ -1,4 +1,5 @@
 let textInput;
+let ver
 
 let button;
 
