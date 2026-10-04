@@ -16,6 +16,7 @@ function setup(){
         "Did you hear about (adj) (noun) that tried to (verb) (adverb) near the (place)",
         "(adj) (noun) is at the (place) (verb) (adverb)"
     ];
+    
     createCanvas(700,800);
     textInput = createInput();
     textInput.position(width/2,100);
