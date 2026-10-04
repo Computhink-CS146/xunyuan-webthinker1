@@ -4,7 +4,8 @@ let adjInput;
 let adverbInput;
 let placeInput;
 let button;
-let storyText = ""
+let storyText = "";
+let
 
 
 function setup(){
