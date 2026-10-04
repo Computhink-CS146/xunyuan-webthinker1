@@ -26,3 +26,7 @@ function draw(){
     text("type name:",width/2-50,110);
 
 }
+
+function updateText() {
+    
+}
