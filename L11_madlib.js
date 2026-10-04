@@ -14,11 +14,11 @@ function setup(){
     verbInput = createInput();
     verbInput.position(width/2,150);
     adjInputInput = createInput();
-    adjInput.position(width/2,150);
+    adjInput.position(width/2,2);
     adverbInput = createInput();
     adverbInput.position(width/2,150);
     placeInput = createInput();
-    pInput.position(width/2,150);
+    placeInput.position(width/2,150);
 
 
 
