@@ -6,7 +6,8 @@ let butto;
 function setup(){
     createCanvas(700,800);
     textInput = createInput;
-    textInput.position(width/2,100)
+    textInput.position(width/2,100);
+    
 
 }
 
