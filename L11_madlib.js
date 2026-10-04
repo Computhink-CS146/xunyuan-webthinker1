@@ -20,7 +20,7 @@ function setup(){
     storyText = random(storyTemplates);
     storyText = storyText.replace("(noun)",nounInput. value());
     storyText = storyText.replace("(verb)",verbInput.value());
-    storyText = storyText.replace("(adj)",adjInput.value);
+    storyText = storyText.replace("(adj)",adjInput.value());
     storyText = storyText.replace("(adverb)","happily");
     storyText = storyText.replace("(place)","park");
     createCanvas(700,800);
