@@ -1,7 +1,8 @@
 let textInput;
 let verbInput;
-
-
+let verbInput;
+let verbInput;
+let verbInput;
 let button;
 
 
