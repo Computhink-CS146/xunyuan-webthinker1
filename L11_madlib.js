@@ -60,7 +60,9 @@ function draw(){
     text("enter an adverb: ",width/2-50,260);
     text("enter a place:",width/2-50,310);
     fill("red");
-    textAlign ()
+    textAlign (CENTER,CENTER);
+    
+
     
 
 }
