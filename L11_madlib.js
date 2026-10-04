@@ -48,8 +48,8 @@ function draw(){
 function updateText() {
     console.log("noun:," +textInput.value());
     console.log("verb:," +verbInput.value());
-    console.log("adj:," +textInput.value());
+    console.log("adj:," +adjInput.value());
     console.log("adverb:," +adverbInput.value());
-    console.log("place:," +textInput.value());
+    console.log("place:," +ppInput.value());
 
 }
