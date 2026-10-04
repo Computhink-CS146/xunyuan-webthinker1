@@ -28,7 +28,7 @@ function setup(){
     button.mousePressed(updateText);
 
     storyTemplates = [
-        "The (adj)(noun)"
+        "The (adj)(noun) decided to (verb) (adj"
     ]
 
 }
