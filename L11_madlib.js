@@ -69,4 +69,11 @@ function updateText() {
     console.log("adverb:," +adverbInput.value());
     console.log("place:," +placeInput.value());
 
+        storyText = random(storyTemplates);
+    storyText = storyText.replace("(noun)",nounInput. value());
+    storyText = storyText.replace("(verb)",verbInput.value());
+    storyText = storyText.replace("(adj)",adjInput.value());
+    storyText = storyText.replace("(adverb)",adverbInput.value());
+    storyText = storyText.replace("(place)",placeInput.value());
+
 }
