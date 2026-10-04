@@ -13,7 +13,7 @@ function setup(){
     verbInput.position(width/2,120);
 
     button = createButton("click me");
-    button.position(width/2, 135);
+    button.position(width/2, 600);
     button.mousePressed(updateText);
 
 }
