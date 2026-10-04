@@ -28,7 +28,8 @@ function setup(){
     button.mousePressed(updateText);
 
     storyTemplates = [
-        "The (adj)(noun) decided to (verb) (adj) at the place"
+        "The (adj) (noun) decided to (verb) (adverb) at the place.",
+        "One day, a (adj) (noun) wanted to (verb) (adverb) in (place)"
     ]
 
 }
