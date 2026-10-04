@@ -10,7 +10,7 @@ function setup(){
     textInput = createInput();
     textInput.position(width/2,100);
     verbInput = createInput();
-    verbInput.position(width/2,120);
+    verbInput.position(width/2,150);
 
     button = createButton("click me");
     button.position(width/2, 600);
