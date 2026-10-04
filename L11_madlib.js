@@ -46,5 +46,5 @@ function draw(){
 }
 
 function updateText() {
-    console.log("hello," +textInput.value());
+    console.log("noun:," +textInput.value());
 }
