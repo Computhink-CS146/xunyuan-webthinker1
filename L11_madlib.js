@@ -11,7 +11,7 @@ function setup(){
 
     button = createButton("click me");
     button.position(width/2, 135);
-    button.mousePressed( U)
+    button.mousePressed(updateText);
 
 }
 
