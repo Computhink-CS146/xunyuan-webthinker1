@@ -49,7 +49,7 @@ function updateText() {
     console.log("noun:," +textInput.value());
     console.log("verb:," +verbInput.value());
     console.log("adj:," +textInput.value());
-    console.log("adverb:," +advInput.value());
+    console.log("adverb:," +adverbInput.value());
     console.log("place:," +textInput.value());
 
 }
