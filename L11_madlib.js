@@ -38,7 +38,8 @@ function draw(){
     textAlign(RIGHT,CENTER);
     text("enter a noun:",width/2-50,110);
     text("enter a verb:",width/2-50,160);
-    text("enter a adj:",width/2-50,160);
+    text("enter a adj:",width/2-50,210);
+    text()
     
 
 }
