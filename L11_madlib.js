@@ -63,7 +63,7 @@ function draw(){
 }
 
 function updateText() {
-    console.log("noun:," +textInput.value());
+    console.log("noun:," +nounInput.value());
     console.log("verb:," +verbInput.value());
     console.log("adj:," +adjInput.value());
     console.log("adverb:," +adverbInput.value());
