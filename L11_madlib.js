@@ -22,7 +22,7 @@ function setup(){
     storyText = storyText.replace("(verb)",verbInput.value());
     storyText = storyText.replace("(adj)",adjInput.value());
     storyText = storyText.replace("(adverb)",adverbInput());
-    storyText = storyText.replace("(place)",place);
+    storyText = storyText.replace("(place)",placeInput.value());
     createCanvas(700,800);
     textInput = createInput();
     textInput.position(width/2,100);
