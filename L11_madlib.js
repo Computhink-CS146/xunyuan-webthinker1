@@ -27,6 +27,10 @@ function setup(){
     button.position(width/2, 350);
     button.mousePressed(updateText);
 
+    storyTemplates = [
+        
+    ]
+
 }
 
 
