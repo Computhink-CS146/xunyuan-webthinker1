@@ -14,9 +14,9 @@ function setup(){
     verbInput = createInput();
     verbInput.position(width/2,150);
     adjInputInput = createInput();
-    adjInput.position(width/2,2);
+    adjInput.position(width/2,200);
     adverbInput = createInput();
-    adverbInput.position(width/2,150);
+    adverbInput.position(width/2,250);
     placeInput = createInput();
     placeInput.position(width/2,150);
 
