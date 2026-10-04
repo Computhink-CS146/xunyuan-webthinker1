@@ -5,7 +5,7 @@ let adverbInput;
 let placeInput;
 let button;
 let storyText = "";
-let
+let storyTemplates;
 
 
 function setup(){
