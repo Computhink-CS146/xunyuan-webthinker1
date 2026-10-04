@@ -9,6 +9,13 @@ let storyTemplates;
 
 
 function setup(){
+
+        storyTemplates = [
+        "The (adj) (noun) decided to (verb) (adverb) at the place.",
+        "One day, a (adj) (noun) wanted to (verb) (adverb) in (place)",
+        "Did you hear about (adj) (noun) that tried to (verb) (adverb) near the (place)",
+        "(adj) (noun) is at the (place) (verb) (adverb)"
+    ];
     createCanvas(700,800);
     textInput = createInput();
     textInput.position(width/2,100);
@@ -27,12 +34,7 @@ function setup(){
     button.position(width/2, 350);
     button.mousePressed(updateText);
 
-    storyTemplates = [
-        "The (adj) (noun) decided to (verb) (adverb) at the place.",
-        "One day, a (adj) (noun) wanted to (verb) (adverb) in (place)",
-        "Did you hear about (adj) (noun) that tried to (verb) (adverb) near the (place)",
-        "(adj) (noun) is at the (place) (verb) (adverb)"
-    ];
+
 
 }
 
