@@ -20,7 +20,7 @@ function draw(){
 
 
 
-    
+    textSize(18)
     text("name:",width/2-50,110);
 
 }
