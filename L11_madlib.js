@@ -18,7 +18,7 @@ function setup(){
     ];
 
     storyText = random(storyTemplates);
-    storyText = storyText.replace("(noun","Dog");
+    storyText = storyText.replace("(noun)","Dog");
     storyText = storyText.replace("")
     createCanvas(700,800);
     textInput = createInput();
