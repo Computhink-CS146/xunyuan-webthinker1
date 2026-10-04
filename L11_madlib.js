@@ -1,8 +1,8 @@
 let textInput;
 let verbInput;
 let adjInput;
-let advInput;
-let verbInput;
+let adverbInput;
+let placeInput;
 let button;
 
 
