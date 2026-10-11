@@ -24,27 +24,27 @@
 
 // }
 
-let planets = [ "jupiter","mars","earth","barbatoes"];
-let pos;
+// let planets = [ "jupiter","mars","earth","barbatoes"];
+// let pos;
 
-function setup() {
-    createCanvas( 400,200);
-    pos = 50;
-    textSize(24);
-    textAlign(CENTER,CENTER);
-    background(220);
-    // pos = 50;
-    for (let i = 0; i < planets. length; i++){
-        text(planets[i], width/2,pos);
-        pos = pos + 40;
-    }
-}
+// function setup() {
+//     createCanvas( 400,200);
+//     pos = 50;
+//     textSize(24);
+//     textAlign(CENTER,CENTER);
+//     background(220);
+//     // pos = 50;
+//     for (let i = 0; i < planets. length; i++){
+//         text(planets[i], width/2,pos);
+//         pos = pos + 40;
+//     }
+// }
 
-function draw() {
-    // background(220);
-    // pos = 50;
-    // for (let i = 0; i < planets. length; i++){
-    //     text(planets[i], width/2,pos);
-    //     pos = pos + 40;
-    // }
-}
+// function draw() {
+//     // background(220);
+//     // pos = 50;
+//     // for (let i = 0; i < planets. length; i++){
+//     //     text(planets[i], width/2,pos);
+//     //     pos = pos + 40;
+//     // }
+// }
