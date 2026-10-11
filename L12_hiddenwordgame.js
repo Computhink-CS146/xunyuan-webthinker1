@@ -17,7 +17,7 @@ function setup() {
 
     hidden = random(WORDS);
     console.log(hidden);
-    hints = hidden
+    hints = hidden[0] +
 
 
 }
