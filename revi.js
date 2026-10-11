@@ -39,6 +39,6 @@ function draw() {
     pos = 50;
     for (let i = 0; i < planets. length; i++){
         text(planets[i], width/2,pos);
-        pos = pos + ;
+        pos = pos + 40;
     }
 }
