@@ -33,7 +33,7 @@ function setup() {
     textSize(24);
     textAlign(CENTER,CENTER);
     background(220);
-    pos = 50;
+    // pos = 50;
     for (let i = 0; i < planets. length; i++){
         text(planets[i], width/2,pos);
         pos = pos + 40;
