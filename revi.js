@@ -19,7 +19,7 @@ function draw() {
     }
 
     rectMode(CENTER);
-    
+    rect(box)
 
 
 }
