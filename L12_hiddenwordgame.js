@@ -1,4 +1,4 @@
-let words = ["WATER","MYTHS","APPLE","CLOUD","TIMER,"]
+let words = ["WATER","MYTHS","APPLE","CLOUD","TIMER",""]
 
 
 
