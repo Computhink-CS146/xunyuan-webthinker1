@@ -23,6 +23,6 @@ function setup() {
 }
 
 function draw() {
-    
+    background("lightgray")
 
 }
