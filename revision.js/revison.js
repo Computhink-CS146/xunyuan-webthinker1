@@ -1,3 +1,4 @@
+let boxXpos = 0;
 
 
 
