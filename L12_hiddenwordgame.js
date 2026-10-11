@@ -23,7 +23,8 @@ function setup() {
 
 }
 function checkAnswer(){
-    let answer = guessInput.value()
+    let answer = guessInput.value();
+    answer = answer
 }
 
 function draw() {
