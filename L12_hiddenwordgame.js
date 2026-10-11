@@ -47,7 +47,7 @@ function draw() {
     text("Attempts:" + attempt, width/2, 135);
     text("hint:" + hints,       width/2, 185);
     fill("red");
-    text(msg, width/2, hieight/2 ,150);
+    text(msg, width/2, height/2 ,150);
 
 
 }
