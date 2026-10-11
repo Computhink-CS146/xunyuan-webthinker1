@@ -26,6 +26,7 @@ function checkAnswer(){
     let answer = guessInput.value();
     answer = answer.toUppercase();
 }
+function checkAnswer()m
 
 function draw() {
     background("lightgray");
