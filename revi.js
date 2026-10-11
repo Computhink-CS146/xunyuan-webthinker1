@@ -28,5 +28,6 @@ let planets = [ "jupiter","mars","earth"];
 let pos;
 
 function setup() {
-    createCanvas( 400,200)
+    createCanvas( 400,200);
+    pos = 50;
 }
