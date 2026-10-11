@@ -31,7 +31,7 @@ function checkAnswer() {
     answer = answer.toUppercase();
 
     if (answer === hidden) {
-        message = " you"
+        message = " "
     }
 }
 
