@@ -5,5 +5,6 @@ function setup() {
 
 function draw() {
     background("orange");
-    rectMode(C)
+    rectMode(CENTER);
+    rect
 }
