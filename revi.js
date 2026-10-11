@@ -31,5 +31,5 @@ function setup() {
     createCanvas( 400,200);
     pos = 50;
     textSize(24);
-    textAlign(CENTER,CENTER)
+    textAlign(CENTER,CENTER);
 }
