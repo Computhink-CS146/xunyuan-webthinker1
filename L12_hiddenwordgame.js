@@ -4,7 +4,7 @@ let submitButton;
 
 
 function setup() {
-    createCanvas()
+    createCanvas(800,650)
 
 }
 
