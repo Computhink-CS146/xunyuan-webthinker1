@@ -25,5 +25,7 @@ function setup() {
 function draw() {
     background("lightgray");
     fill("black");
+    textSize(44);
+    
 
 }
