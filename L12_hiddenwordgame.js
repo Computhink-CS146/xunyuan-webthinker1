@@ -26,6 +26,6 @@ function draw() {
     background("lightgray");
     fill("black");
     textSize(44);
-    
+    textaAL
 
 }
