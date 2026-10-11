@@ -27,6 +27,6 @@ function draw() {
     fill("black");
     textSize(44);
     textAlign(CENTER,CENTER);
-    text
+    text("Guess")
 
 }
