@@ -26,3 +26,7 @@
 
 let planets = [ "jupiter","mars","earth"];
 let pos;
+
+function setup() {
+    
+}
