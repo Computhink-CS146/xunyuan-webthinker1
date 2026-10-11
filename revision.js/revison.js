@@ -4,5 +4,6 @@ function setup() {
 }
 
 function draw() {
-    background()
+    background("orange");
+    
 }
