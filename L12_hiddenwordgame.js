@@ -24,11 +24,11 @@ function setup() {
 }
 function checkAnswer(){
     let answer = guessInput.value();
-    answer = answer.toUppercase();
+    answer = answer.toUpperCase();
 }
 function checkAnswer() {
     let answer = guessInput.value();
-    answer = answer.toUppercase();
+    answer = answer.toUpperCase();
 
     if (answer === hidden) {
         msg = " GGs";
