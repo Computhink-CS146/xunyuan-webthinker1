@@ -6,7 +6,7 @@ let msg = "";
 function setup() {
     createCanvas(800,650);
     guessInput = createInput();
-    guessInput.position(width/2,)
+    guessInput.position(width/2-200, height/2)
 
 
 }
