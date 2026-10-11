@@ -14,6 +14,7 @@ function setup() {
     submitButton = createButton("Submit");
     submitButton.position(width/2+75, height/2);
     submitButton.style("font-size", "20px");
+    submitButt
 
     hidden = random(WORDS);
     console.log(hidden);
@@ -31,6 +32,6 @@ function draw() {
     text("Attempts:" + attempt, width/2, 135);
     text("hint:" + hints,       width/2, 185);
     fill("red");
-    
+
 
 }
