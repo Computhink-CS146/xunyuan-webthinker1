@@ -22,6 +22,7 @@ function setup() {
 
 
 }
+function checkAnswer()
 
 function draw() {
     background("lightgray");
