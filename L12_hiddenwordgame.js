@@ -16,7 +16,7 @@ function setup() {
     submitButton.style("font-size", "20px");
     submitButton.mousePressed(checkAnswer);
 
-    hidden = random(WORDS);
+    hidden = random(words);
     console.log(hidden);
     hints = hidden[0] + "_ _ _ _";
 
