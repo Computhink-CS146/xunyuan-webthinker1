@@ -9,6 +9,9 @@ function setup() {
 
 function draw() {
     background("orange");
-    boxXpos += speed
+    boxXpos += speed;
+    if (boxXpos > width- 50) {
+        
+    }
 
 }
