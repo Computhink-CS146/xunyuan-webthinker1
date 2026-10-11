@@ -33,3 +33,7 @@ function setup() {
     textSize(24);
     textAlign(CENTER,CENTER);
 }
+
+function draw() {
+    
+}
