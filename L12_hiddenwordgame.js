@@ -14,7 +14,7 @@ function setup() {
     submitButton = createButton("Submit");
     submitButton.position(width/2+75, height/2);
     submitButton.style("font-size", "20px");
-    submitButt
+    submitButton.mousePressed(chckedAnswer)
 
     hidden = random(WORDS);
     console.log(hidden);
