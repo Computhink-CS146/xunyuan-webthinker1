@@ -28,7 +28,7 @@ function checkAnswer(){
 }
 function checkAnswer() {
     let answer = guessInput.value();
-    
+    answer = answer. 
 }
 
 function draw() {
