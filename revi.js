@@ -24,7 +24,7 @@
 
 // }
 
-let planets = [ "jupiter","mars","earth"];
+let planets = [ "jupiter","mars","earth","barbatoes"];
 let pos;
 
 function setup() {
