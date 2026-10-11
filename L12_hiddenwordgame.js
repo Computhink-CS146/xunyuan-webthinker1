@@ -2,7 +2,8 @@ let words = ["WATER","MYTHS","APPLE","CLOUD","TIMER","WRITE","JOKER","WORLD","BL
 let guessInput;
 let submitButton;
 let msg = "";
-let
+let hidden;
+let hints
 function setup() {
     createCanvas(800,650);
     guessInput = createInput();
