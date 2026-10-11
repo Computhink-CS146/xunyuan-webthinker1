@@ -31,10 +31,10 @@ function checkAnswer() {
     answer = answer.toUppercase();
 
     if (answer === hidden) {
-        message = " GGs"
+        message = " GGs";
     }
     else{
-        message = "wrong"
+        message = "wrong";
     }
 }
 
