@@ -5,7 +5,7 @@ let msg = "";
 
 function setup() {
     createCanvas(800,650);
-    guessInput
+    guessInput = createI
 
 
 }
