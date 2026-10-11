@@ -4,6 +4,7 @@ let submitButton;
 let msg = "";
 let hidden;
 let hints;
+let attempt
 function setup() {
     createCanvas(800,650);
     guessInput = createInput();
