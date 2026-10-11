@@ -17,11 +17,12 @@ function setup() {
 
     hidden = random(WORDS);
     console.log(hidden);
-    hints = hidden[0] + "_ _ _ _"
+    hints = hidden[0] + "_ _ _ _";
 
 
 }
 
 function draw() {
+    
 
 }
