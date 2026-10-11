@@ -1,3 +1,5 @@
 
 
-funcy
+function setup() {
+    
+}
