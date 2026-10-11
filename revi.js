@@ -24,4 +24,5 @@
 
 // }
 
-let planets = [ "jupiter","mars","earth"]
+let planets = [ "jupiter","mars","earth"];
+let pos;
