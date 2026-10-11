@@ -18,7 +18,8 @@ function draw() {
         speed = speed* -1;
     }
 
-    rectMode
+    rectMode(CENTER);
+    
 
 
 }
