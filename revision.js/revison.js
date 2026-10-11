@@ -3,4 +3,6 @@ function setup() {
 
 }
 
-functiom
+function draw() {
+    
+}
