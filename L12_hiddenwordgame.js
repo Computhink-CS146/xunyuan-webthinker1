@@ -3,7 +3,7 @@ let guessInput;
 let submitButton;
 let msg = "";
 let hidden;
-let hints
+let hints;
 function setup() {
     createCanvas(800,650);
     guessInput = createInput();
@@ -13,6 +13,8 @@ function setup() {
     submitButton = createButton("Submit");
     submitButton.position(width/2+75, height/2);
     submitButton.style("font-size", "20px");
+
+    
 
 
 }
