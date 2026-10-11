@@ -19,7 +19,7 @@ function draw() {
     }
 
     rectMode(CENTER);
-    rect(boxXpos,height)
+    rect(boxXpos,height/2,100,25);
 
 
 }
