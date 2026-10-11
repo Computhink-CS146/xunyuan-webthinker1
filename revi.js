@@ -11,7 +11,7 @@ function draw() {
     background("orange");
     boxXpos += speed;
     if (boxXpos > width- 50) {
-        
+        speed = speed* -1;
     }
 
 }
