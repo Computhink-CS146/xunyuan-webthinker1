@@ -10,7 +10,8 @@ function setup() {
     guessInput.style("font-size", "20px");
 
     submitButton = createButton("Submit");
-    submitButton.position(width/2+75)
+    submitButton.position(width/2+75, height/2);
+    
 
 
 }
