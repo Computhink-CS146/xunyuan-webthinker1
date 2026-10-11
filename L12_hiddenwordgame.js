@@ -24,6 +24,6 @@ function setup() {
 
 function draw() {
     background("lightgray");
-    fill()
+    fill("black");
 
 }
