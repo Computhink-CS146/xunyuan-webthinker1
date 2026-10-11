@@ -36,5 +36,6 @@ function setup() {
 
 function draw() {
     background(220);
-    
+    pos = 50;
+    for (let i = 0; i < planets. length; i++){}
 }
