@@ -32,6 +32,7 @@ function draw() {
     text("Attempts:" + attempt, width/2, 135);
     text("hint:" + hints,       width/2, 185);
     fill("red");
+    message
 
 
 }
