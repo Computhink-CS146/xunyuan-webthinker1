@@ -1,3 +1,4 @@
+let boxXpos = 0;
 
 
 function setup() {
@@ -5,5 +6,5 @@ function setup() {
 }
 
 function draw() {
-    
+
 }
