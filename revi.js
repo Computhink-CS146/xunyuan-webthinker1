@@ -24,4 +24,4 @@
 
 // }
 
-function s
+let planets = [ ]
