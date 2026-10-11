@@ -15,7 +15,7 @@ function setup() {
     submitButton.style("font-size", "20px");
 
     hidden = random(WORDS);
-    console.hidden
+    console.log(hidden);
 
 
 }
