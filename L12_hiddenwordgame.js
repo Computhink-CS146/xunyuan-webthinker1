@@ -24,7 +24,7 @@ function setup() {
 }
 function checkAnswer(){
     let answer = guessInput.value();
-    answer = answer
+    answer = answer.toUppercase();
 }
 
 function draw() {
