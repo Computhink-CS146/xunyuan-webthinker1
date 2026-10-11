@@ -24,4 +24,4 @@
 
 // }
 
-let planets = [ "jupiter","mars"]
+let planets = [ "jupiter","mars","earth"]
