@@ -1,3 +1,6 @@
+
+
+
 function setup() {
     createCanvas(400,600);
 
@@ -6,5 +9,6 @@ function setup() {
 function draw() {
     background("orange");
     rectMode(CENTER);
-    rect(width/2,height/2,100,25)
+    rect(width/2,height/2,100,25);
+
 }
