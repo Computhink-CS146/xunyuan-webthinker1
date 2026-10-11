@@ -29,6 +29,7 @@ function draw() {
     textAlign(CENTER,CENTER);
     text("Guess the hidden word", width/2, 75);
     text("Attempts:" + attempt, width/2, 135);
-    text("hint:" + hints,       width/2)
+    text("hint:" + hints,       width/2, 185);
+    fill()
 
 }
