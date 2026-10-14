@@ -24,6 +24,7 @@ function draw(){
     for(let i = 0; i , numStars; i++) {
         fill(255, 255,0);
         circle(starX[i], starY[i], starSize[i]);
+        star[i] += starspeed;
         
     }
 }
