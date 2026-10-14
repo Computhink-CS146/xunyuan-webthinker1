@@ -1,4 +1,4 @@
-let starX =
+let starX =[]
 
 function setup() {
 
