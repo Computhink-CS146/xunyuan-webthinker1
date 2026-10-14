@@ -18,3 +18,6 @@ function setup() {
 
 
 }
+function draw(){
+    
+}
