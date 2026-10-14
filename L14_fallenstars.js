@@ -1,5 +1,5 @@
-
+let starX =
 
 function setup() {
-    
+
 }
