@@ -26,8 +26,10 @@ function draw(){
         circle(starX[i], starY[i], starSize[i]);
         star[i] += starspeed;
 
-        if(stary[i] > height) [
-            stary[i] = random(--200)
-        ]
+        if(starY[i] > height) {
+            stary[i] = random(-200,-50);
+            starX[i] = random(width);
+
+        }
     }
 }
