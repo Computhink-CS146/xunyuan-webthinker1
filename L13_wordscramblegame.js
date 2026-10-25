@@ -65,7 +65,7 @@ function scrambledWord(aword) {
             arrLetters[index] = second;
             arrLetters[who] = temporary;
         }
-    print("correct?" + arrletters);
+   
     return arrLetters.join ('');
 }
 function draw() {
