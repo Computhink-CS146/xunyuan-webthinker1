@@ -42,6 +42,7 @@ function chooseHidddenWord(){
 
 }
 function scrambledWord(aWord) {
+    let 
 
 }
 function draw() {
