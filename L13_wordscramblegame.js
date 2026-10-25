@@ -54,7 +54,7 @@ function chooseHidddenWord(){
 
 }
 function scrambledWord(aWord) {
-    let arrLetters = aworld.split("");
+    let arrLetters = aword.split("");
     for (let index= arrLetters.length-1;
         index > 0;
         index--) {
