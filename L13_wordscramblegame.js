@@ -28,6 +28,7 @@ function setup() {
 
 }
 function doScrambledAgain(){
+    scrambled = scrambledWord
 
 }
 
