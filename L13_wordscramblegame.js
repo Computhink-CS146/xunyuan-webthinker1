@@ -38,7 +38,8 @@ function checkGuess(){
 function chooseHidddenWord(){
     hiddenword = random(WORDS) ;
     hiddenword = hiddenword.toUpperCase();
-    scrambled = scrambledWord
+    scrambled = scrambledWord(hiddenword);
+    
 }
 function draw() {
     background(220);
