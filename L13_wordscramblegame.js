@@ -32,6 +32,10 @@ function doScrambledAgain(){
 }
 
 function checkGuess(){
+
+}
+
+function chooseHidddenWord(){
     
 }
 function draw() {
