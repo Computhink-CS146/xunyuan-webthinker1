@@ -37,9 +37,11 @@ function checkGuess(){
     guess = guess.toUpperCase();
     if (guess === hiddenword) {
         message = "You guessed it!";
-        
-    }
 
+    }
+else {
+    message
+}
 }
 
 function chooseHidddenWord(){
