@@ -7,7 +7,7 @@ let message = "";
 let scrambled = "";
 let guessInput= "";
 let submitButton;
-const WORDS = ["Apple","school","banana","winter","tiger"];
+const WORDS = ["A","school","banana","winter","tiger"];
 
 function setup() {
     createCanvas(800,600);
@@ -42,7 +42,7 @@ function chooseHidddenWord(){
 
 }
 function scrambledWord(aWord) {
-    
+
 }
 function draw() {
     background(220);
