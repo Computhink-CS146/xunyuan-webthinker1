@@ -23,7 +23,8 @@ function setup() {
     submitButton = createButton("submit");
     submitButton.position(485,280);
     submitButton.style("font-size","18px");
-    submitButton.size(1100,30)
+    submitButton.size(110,30);
+    
 }
 
 function draw() {
