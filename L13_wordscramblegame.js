@@ -43,6 +43,11 @@ function chooseHidddenWord(){
 }
 function scrambledWord(aWord) {
     let arrLetters = aworld.split("");
+    for (let index= arrLetters.length-1;
+        index > 0;
+        index--) {
+            first = 
+        }
 
 }
 function draw() {
