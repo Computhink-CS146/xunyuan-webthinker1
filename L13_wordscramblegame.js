@@ -26,6 +26,8 @@ function setup() {
     submitButton.style("font-size","18px");
     submitButton.size(110,30);
 
+    chooseHidddenWord()
+
 }
 function doScrambledAgain(){
     scrambled = scrambledWord(hiddenword);
@@ -41,7 +43,7 @@ function checkGuess(){
     }
 else {
     message = "Nah!";
-    
+
 }
 }
 
