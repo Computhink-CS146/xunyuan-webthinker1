@@ -59,6 +59,7 @@ function draw() {
     textSize(24);
     text("Score:" + score,  width/2, height/2+80);
     text("streak: "+ streak + "(Max: "+ max +")",width/2,height/2+110);
+    text()
 
 
 }
