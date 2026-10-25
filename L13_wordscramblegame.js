@@ -58,7 +58,7 @@ function draw() {
 
     textSize(24);
     text("Score:" + score,  width/2, height/2+80);
-    
+    text("strea")
 
 
 }
