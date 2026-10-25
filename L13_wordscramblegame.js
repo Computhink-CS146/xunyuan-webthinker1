@@ -40,7 +40,8 @@ function checkGuess(){
 
     }
 else {
-    message
+    message = "Nah!";
+    
 }
 }
 
