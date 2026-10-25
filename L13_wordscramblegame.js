@@ -63,7 +63,7 @@ function draw() {
 
     textSize(24);
     
-    text("streak: "+ streak + "(Max: "+ max +")",width/2,height/2+110);
+    
     text(message,                               width/2,height/2+140);
 
 
