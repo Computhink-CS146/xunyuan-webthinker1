@@ -42,7 +42,7 @@ function chooseHidddenWord(){
 
 }
 function scrambledWord(aWord) {
-    let 
+    let arrLetters = aworld
 
 }
 function draw() {
