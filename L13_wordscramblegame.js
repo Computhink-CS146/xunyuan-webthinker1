@@ -51,7 +51,7 @@ function scrambledWord(aWord) {
             second = arrLetters[who];
             temporary = first;
             arrLetters[index] = second;
-            arrLetters
+            arrLetters[who] = temporary;
         }
 
 }
