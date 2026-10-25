@@ -22,7 +22,7 @@ function setup() {
     guessInput.size(150,30);
 
     submitButton = createButton("submit");
-    submitButton.position(485,250);
+    submitButton.position(485,300);
     submitButton.style("font-size","18px");
     submitButton.size(110,30);
 
