@@ -27,7 +27,9 @@ function setup() {
     submitButton.size(110,30);
 
 }
-function doScrambledAgain(){}
+function doScrambledAgain(){
+    
+}
 
 function draw() {
     background(220);
