@@ -14,7 +14,7 @@ function setup() {
     scrambledButton = createButton("re-scrambled");
     scrambledButton.position(305,300);
     scrambledButton.style("font-size", "18px");
-    scrambledButton.mousePressed
+    scrambledButton.mousePressed(doSc)
 
     guessInput =  createInput();
     guessInput.position(305,300);
