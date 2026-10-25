@@ -24,7 +24,7 @@ function setup() {
     submitButton.position(485,280);
     submitButton.style("font-size","18px");
     submitButton.size(110,30);
-    
+
 }
 
 function draw() {
@@ -37,6 +37,6 @@ function draw() {
     textSize(24);
     text("score: " + score,  width/2, height/2+80 );
     text("Streak: " + "(Max: "+ max +")", width/2, height/2 + 80);
-    text("screambled Word: " + scrambled)
+    text("screambled Word: " + scrambled,)
 
 }
