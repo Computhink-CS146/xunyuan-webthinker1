@@ -26,7 +26,7 @@ function setup() {
     submitButton.style("font-size","18px");
     submitButton.size(110,30);
 
-    chooseHidddenWord()
+    chooseHidddenWord();
 
 }
 function doScrambledAgain(){
