@@ -49,7 +49,8 @@ function scrambledWord(aWord) {
             first = arrLetters[index];
             who = floor(random(0,index+1));
             second = arrLetters[who];
-            temporary = first
+            temporary = first;
+            arrLetters[index]
         }
 
 }
