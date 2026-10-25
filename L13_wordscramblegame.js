@@ -37,7 +37,8 @@ function checkGuess(){
 
 function chooseHidddenWord(){
     hiddenword = random(WORDS) ;
-    hiddenword = hiddenword.toUppe
+    hiddenword = hiddenword.toUpperCase();
+    
 }
 function draw() {
     background(220);
