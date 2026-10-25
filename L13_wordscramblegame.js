@@ -36,7 +36,7 @@ function checkGuess(){
 }
 
 function chooseHidddenWord(){
-    
+    hiddenword = random
 }
 function draw() {
     background(220);
