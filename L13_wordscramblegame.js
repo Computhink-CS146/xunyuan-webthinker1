@@ -47,6 +47,7 @@ function scrambledWord(aWord) {
         index > 0;
         index--) {
             first = arrLetters[index];
+            
         }
 
 }
