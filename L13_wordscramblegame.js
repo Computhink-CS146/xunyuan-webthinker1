@@ -33,6 +33,7 @@ function doScrambledAgain(){
 }
 
 function checkGuess(){
+    let guess = guessInput.Value
 
 }
 
