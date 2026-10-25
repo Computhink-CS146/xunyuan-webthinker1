@@ -34,7 +34,8 @@ function doScrambledAgain(){
 
 function checkGuess(){
     let guess = guessInput.value();
-    guess = guess
+    guess = guess. toUpperCase();
+    
 
 }
 
