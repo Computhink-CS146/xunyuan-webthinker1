@@ -12,7 +12,7 @@ const WORDS = ["apple","school","banana","winter","tiger"];
 function setup() {
     createCanvas(800,600);
     scrambledButton = createButton("re-scrambled");
-    scrambledButton.position(200,300);
+    scrambledButton.position(200,);
     scrambledButton.style("font-size", "18px");
     scrambledButton.mousePressed(doScrambledAgain);
 
