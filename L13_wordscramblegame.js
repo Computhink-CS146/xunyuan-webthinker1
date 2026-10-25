@@ -39,8 +39,9 @@ function chooseHidddenWord(){
     hiddenword = random(WORDS) ;
     hiddenword = hiddenword.toUpperCase();
     scrambled = scrambledWord(hiddenword);
-    
+
 }
+
 function draw() {
     background(220);
     textSize(32);
