@@ -53,7 +53,8 @@ function scrambledWord(aWord) {
             arrLetters[index] = second;
             arrLetters[who] = temporary;
         }
-    print("correct?" + arrletters)
+    print("correct?" + arrletters);
+    return
 }
 function draw() {
     background(220);
