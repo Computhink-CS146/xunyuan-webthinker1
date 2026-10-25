@@ -7,7 +7,7 @@ let message = "";
 let scrambled = "";
 let guessInput= "";
 let submitButton;
-const WORDS = ["A","school","banana","winter","tiger"];
+const WORDS = ["apple","school","banana","winter","tiger"];
 
 function setup() {
     createCanvas(800,600);
