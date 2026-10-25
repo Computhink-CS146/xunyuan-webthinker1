@@ -38,6 +38,7 @@ function draw() {
     text("score: " + score,  width/2, height/2+80 );
     text("Streak: " + "(Max: "+ max +")", width/2, height/2 + 80);
     text("screambled Word: " + scrambled,width/2, 160);
-    
+
+    textSize
 
 }
