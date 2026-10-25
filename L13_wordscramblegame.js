@@ -14,6 +14,7 @@ function setup() {
     scrambledButton = createButton("re-scrambled");
     scrambledButton.position(305,300);
     scrambledButton.style("font-size", "18px");
+    scrambledButton.mousePressed
 
     guessInput =  createInput();
     guessInput.position(305,300);
@@ -41,6 +42,6 @@ function draw() {
 
     textSize(24);
     text("Score:" + score);
-    
+
 
 }
