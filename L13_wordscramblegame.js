@@ -28,9 +28,12 @@ function setup() {
 
 }
 function doScrambledAgain(){
-    
+
 }
 
+function checkGuess(){
+    
+}
 function draw() {
     background(220);
     textSize(32);
