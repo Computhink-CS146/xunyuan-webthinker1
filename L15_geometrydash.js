@@ -1,7 +1,8 @@
-let 
-let 
+
+let score = 0;
 let gameStarted = false;
 
+let 
 function setup(){
     createCanvas(600,400);
     background(0);
