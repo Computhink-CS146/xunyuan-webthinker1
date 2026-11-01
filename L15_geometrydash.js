@@ -20,7 +20,7 @@ function draw() {
     fill(cyan);
     textSize(18);
     textAlign(CENTER,CENTER);
-    text()
+    text("press SPACE")
     fill("lime");
 
     rect(50,height-50,50);
