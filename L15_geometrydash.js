@@ -16,6 +16,8 @@ function draw() {
         drawStartsScreen();
         return;
     }
+
+    rect
 }
 function drawStartsScreen() {
     fill("white");
