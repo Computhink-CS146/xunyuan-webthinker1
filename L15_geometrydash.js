@@ -9,10 +9,14 @@ function setup(){
 
 }
 
-function draw(){
-    fill("white");
-    textSize(44);
-    textAlign(CENTER,CENTER);
-    Text("press SPACE to start", width/2,height/2);
+function draw() {
+
+    if(!gameStarted) {
+        drawStartsScreen();
+
+
+}
+}
+function drawStartsScreen() {
     
 }
