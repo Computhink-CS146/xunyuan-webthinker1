@@ -24,7 +24,8 @@ function draw() {
         drawStartsScreen();
         return;
     }
-    velocity 
+    velocity += 0.8;
+    
 
     fill('cyan');
     textSize(18);
