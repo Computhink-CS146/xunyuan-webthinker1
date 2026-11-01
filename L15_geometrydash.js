@@ -58,7 +58,9 @@ else {
     fill("red");
     for ( let index = 0; index<3; index++) {
 
-        
+        if (spikesX[index] < 0) {
+            
+        }
         spikesX[index] -= spikespeed;
         triangle(spikesX[index],height,
             spikesX[index]+ spikewidth,height - spikeheight,
