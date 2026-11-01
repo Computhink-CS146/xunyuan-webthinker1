@@ -18,8 +18,8 @@ function setup(){
     background(0);
     playerY = height - playerSize;
 
-for(let count = 0; count < 3; count){
-
+for(let count = 0; count < 3; count++){
+    spike
 }
 
 }
