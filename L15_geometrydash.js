@@ -8,7 +8,7 @@ let playerSize = 50;
 let velocity = 0;
 let isGrounded = false;
 
-let spikeX = [];
+let spikesX = [];
 let spikewidth = 20;
 let spikeheight = 30;
 let spikespeed = 5;
@@ -19,7 +19,7 @@ function setup(){
     playerY = height - playerSize;
 
 for(let count = 0; count < 3; count++){
-    spikeX.push(width + count*300);
+    spikesX.push(width + count*300);
 }
 
 }
