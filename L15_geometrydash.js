@@ -53,6 +53,11 @@ else {
     fill("lime");
 
     rect(playerX,playerY,playerSize,playerSize);
+
+
+    fill("red");
+    for ( let index = 0; index<3; index++) [
+    ]
 }
 function drawStartsScreen() {
     fill("white");
