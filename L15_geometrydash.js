@@ -8,7 +8,7 @@ let playerSize = 50;
 let velocity = 0;
 let isGrounded = false;
 
-let spikesX = [];
+let spikeX = [];
 let spikewidth = 20;
 let spikeheight = 30;
 let spikespeed = 5;
