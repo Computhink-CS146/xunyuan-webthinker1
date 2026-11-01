@@ -3,7 +3,7 @@ let
 let 
 
 function setup(){
-
+createCanvas
 
 }
 
