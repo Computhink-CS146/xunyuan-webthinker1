@@ -10,6 +10,7 @@ function setup(){
 }
 
 function draw() {
+    background(0);
 
     if(!gameStarted) {
         drawStartsScreen();
@@ -24,5 +25,8 @@ function drawStartsScreen() {
 }
 
 function keyPressed(){
-    
+    if (keyCode === 32) {
+        gameStarted = true;
+
+    }
 }
