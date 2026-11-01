@@ -17,7 +17,7 @@ function draw() {
         return;
     }
 
-    rect()
+    rect(50,height-50.,)
 }
 function drawStartsScreen() {
     fill("white");
