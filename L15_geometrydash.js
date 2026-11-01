@@ -26,6 +26,7 @@ function draw() {
     }
     velocity += 0.8;
     playerY += velocity;
+    if (playerY >= height )
 
     fill('cyan');
     textSize(18);
