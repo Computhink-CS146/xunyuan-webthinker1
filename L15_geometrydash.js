@@ -4,6 +4,7 @@ let gameStarted = false;
 
 let playerX = 100;
 let playerY ;
+let playerSize = 50;
  
 function setup(){
     createCanvas(600,400);
