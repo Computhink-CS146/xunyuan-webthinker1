@@ -13,5 +13,6 @@ function draw(){
     fill("white");
     textSize(44);
     textAlign(CENTER,CENTER);
-    Text("press SPACE to start");
+    Text("press SPACE to start", width/2,height/2);
+    
 }
