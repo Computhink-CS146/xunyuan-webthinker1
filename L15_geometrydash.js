@@ -1,6 +1,6 @@
 let 
 let 
-let 
+let gameStarted = false;
 
 function setup(){
     createCanvas(600,400);
@@ -13,12 +13,12 @@ function draw() {
 
     if(!gameStarted) {
         drawStartsScreen();
-
-
-}
+        return;
+    }
 }
 function drawStartsScreen() {
     fill("white");
     textSize(44);
-    text
+    textAlign(CENTER,CENTER);
+    text("press SPACE to jump",width/2, height/2);
 }
