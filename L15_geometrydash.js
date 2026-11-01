@@ -26,6 +26,7 @@ function draw() {
     fill(cyan);
     textSize(18);
     textAlign(CENTER,CENTER);
+    text("press ")
     text("press SPACE")
     fill("lime");
 
