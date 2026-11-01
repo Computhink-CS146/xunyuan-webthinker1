@@ -29,7 +29,7 @@ function draw() {
     text("press SPACE")
     fill("lime");
 
-    rect(50,height-50,50);
+    rect(50,height-50,50,50);
 }
 function drawStartsScreen() {
     fill("white");
