@@ -58,7 +58,9 @@ else {
     fill("red");
     for ( let index = 0; index<3; index++) {
         spikesX[index] -= spikespeed;
-        triangle(0 ,)
+        triangle( 0,0
+            
+        )
     }
 }
 function drawStartsScreen() {
