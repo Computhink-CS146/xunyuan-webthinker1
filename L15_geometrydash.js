@@ -2,7 +2,8 @@
 let score = 0;
 let gameStarted = false;
 
-let 
+let playerX = 100;
+playerY = 
 function setup(){
     createCanvas(600,400);
     background(0);
