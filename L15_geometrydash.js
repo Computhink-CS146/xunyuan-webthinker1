@@ -11,7 +11,7 @@ function setup(){
     createCanvas(600,400);
     background(0);
     playerY = height - playerSize;
-    
+
 
 
 }
@@ -24,6 +24,7 @@ function draw() {
         drawStartsScreen();
         return;
     }
+    velocity 
 
     fill('cyan');
     textSize(18);
