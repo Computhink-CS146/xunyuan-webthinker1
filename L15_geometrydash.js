@@ -10,5 +10,5 @@ function setup(){
 }
 
 function draw(){
-    Text("press Te")
+    Text("press SPACE to start")
 }
