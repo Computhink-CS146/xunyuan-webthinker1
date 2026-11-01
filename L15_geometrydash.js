@@ -35,7 +35,7 @@ function draw() {
     text("score :"+ score, width/2, 80);
     fill("lime");
 
-    rect(playerX,playerY,);
+    rect(playerX,playerY,playerSize,playerSize);
 }
 function drawStartsScreen() {
     fill("white");
