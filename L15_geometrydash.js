@@ -18,6 +18,7 @@ function draw() {
     }
 
     fill(cyan);
+    textSize(18);
     
     fill("lime");
 
