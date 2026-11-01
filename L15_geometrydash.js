@@ -56,8 +56,9 @@ else {
 
 
     fill("red");
-    for ( let index = 0; index<3; index++) [
-    ]
+    for ( let index = 0; index<3; index++) {
+        
+    }
 }
 function drawStartsScreen() {
     fill("white");
