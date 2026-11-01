@@ -19,7 +19,7 @@ function setup(){
     playerY = height - playerSize;
 
 for(let count = 0; count < 3; count++){
-    spikeX.push(width)
+    spikeX.push(width + count*300)
 }
 
 }
