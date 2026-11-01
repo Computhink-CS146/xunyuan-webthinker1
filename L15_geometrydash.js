@@ -22,3 +22,7 @@ function drawStartsScreen() {
     textAlign(CENTER,CENTER);
     text("press SPACE to jump",width/2, height/2);
 }
+
+function keyPressed(){
+    
+}
