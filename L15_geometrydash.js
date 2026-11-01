@@ -29,10 +29,11 @@ function draw() {
     if (playerY >= height - playerSize ){
         velocity = 0;
         isGrounded = true;
-        pla
+        playerY = height - playerSize;
 
     }
 else {
+    isGrounded = false;
 
 }
     fill('cyan');
