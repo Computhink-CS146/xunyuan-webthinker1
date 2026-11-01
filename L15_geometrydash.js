@@ -10,5 +10,6 @@ function setup(){
 }
 
 function draw(){
+    
     Text("press SPACE to start")
 }
