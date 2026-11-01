@@ -11,5 +11,7 @@ function setup(){
 
 function draw(){
     fill("white");
+    textSize(44);
+    
     Text("press SPACE to start");
 }
