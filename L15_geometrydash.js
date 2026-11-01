@@ -25,7 +25,7 @@ function draw() {
         return;
     }
     velocity += 0.8;
-    
+    playerY +=
 
     fill('cyan');
     textSize(18);
