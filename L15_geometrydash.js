@@ -18,5 +18,7 @@ function draw() {
 }
 }
 function drawStartsScreen() {
-    fill("white")
+    fill("white");
+    textSize(44);
+    text
 }
