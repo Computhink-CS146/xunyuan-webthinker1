@@ -59,7 +59,7 @@ else {
     for ( let index = 0; index<3; index++) {
         spikesX[index] -= spikespeed;
         triangle(spikesX[index],height,
-            spikesX[index]+ spikewidth,
+            spikesX[index]+ spikewidth,height - spikeheight,
             spikesX[index] + spikewidth,height
 
         )
