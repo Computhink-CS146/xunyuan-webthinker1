@@ -23,7 +23,7 @@ function draw() {
         return;
     }
 
-    fill(cyan);
+    fill('cyan');
     textSize(18);
     textAlign(CENTER,CENTER);
     
