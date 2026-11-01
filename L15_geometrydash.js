@@ -60,7 +60,7 @@ else {
         spikesX[index] -= spikespeed;
         triangle(spikesX[index],height,
             0,0,
-            
+            spikes
 
         )
     }
