@@ -16,6 +16,9 @@ function draw() {
         drawStartsScreen();
         return;
     }
+
+    fill(cyan);
+    
     fill("lime");
 
     rect(50,height-50,50);
