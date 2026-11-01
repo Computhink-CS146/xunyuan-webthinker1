@@ -19,7 +19,8 @@ function draw() {
 
     fill(cyan);
     textSize(18);
-    textAlign(CENTER,CENTER)
+    textAlign(CENTER,CENTER);
+    text()
     fill("lime");
 
     rect(50,height-50,50);
