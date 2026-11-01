@@ -60,9 +60,9 @@ else {
         spikesX[index] -= spikespeed;
         triangle(spikesX[index],height,
             spikesX[index]+ spikewidth,height - spikeheight,
-            spikesX[index] + spikewidth,height
+            spikesX[index] + spikewidth,height)
 
-        )
+        
     }
 }
 function drawStartsScreen() {
