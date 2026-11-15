@@ -448,6 +448,7 @@ function tryToEscape() {
     return;
   }
 
+  health = min(150, health + 50);
   loadRoom(roomIndex + 1);
 }
 
