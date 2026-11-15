@@ -6,7 +6,6 @@ const ROOM_RIGHT = 896;
 const ROOM_TOP = 96;
 const ROOM_BOTTOM = 574;
 const DOOR_X = GAME_W / 2;
-const DOOR_Y = ROOM_TOP + 10;
 const PLAYER_SPEED = 3.4;
 const SHOT_DELAY = 170;
 
@@ -66,7 +65,6 @@ let consoleSolved = false;
 let puzzleOpen = false;
 let puzzleEntry = [];
 let puzzleFeedback = '';
-let feedbackUntil = 0;
 let gameState = 'playing';
 let stars = [];
 let damageFlash = 0;
@@ -480,7 +478,6 @@ function loadRoom(nextRoom) {
     return {
       sprite,
       healthValue: details.hp,
-      maxHealthValue: details.hp,
       boss: Boolean(details.boss),
       attackClock: random(50, 110)
     };
@@ -533,6 +530,10 @@ function keyPressed() {
       puzzleEntry = [];
       puzzleFeedback = '';
     }
+    return false;
+  }
+
+  if ([LEFT_ARROW, RIGHT_ARROW, UP_ARROW, DOWN_ARROW, 32, 65, 68, 87, 83].includes(keyCode)) {
     return false;
   }
 
