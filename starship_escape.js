@@ -283,6 +283,7 @@ function updateGame() {
   movePlayer();
   updateEnemies();
   updateShots();
+  collectRoomKey();
   updateRoomState();
   tryToEscape();
 
@@ -431,6 +432,13 @@ function spawnRoomKey() {
       x: constrain(player.x, ROOM_LEFT + 90, ROOM_RIGHT - 90),
       y: constrain(player.y - 72, ROOM_TOP + 90, ROOM_BOTTOM - 75)
     };
+  }
+}
+
+function collectRoomKey() {
+  if (roomKey && distanceBetween(player, roomKey) < 28) {
+    roomKey = null;
+    keyCollected = true;
   }
 }
 
