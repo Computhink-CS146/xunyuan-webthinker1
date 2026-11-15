@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Starship Escape</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+      body {
+        min-height: 100vh;
+        padding: 24px;
+        box-sizing: border-box;
+        color: #e8f3ff;
+        background: #080d1b;
+        font-family: system-ui, sans-serif;
+        text-align: center;
+      }
+
+      main {
+        max-width: 1000px;
+        margin: 0 auto;
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        color: #9cecff;
+        background: transparent;
+      }
+
+      p {
+        margin: 8px 0 16px;
+        color: #bed0e6;
+      }
+
+      canvas {
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+        border: 1px solid #47618a;
+        border-radius: 12px;
+        box-shadow: 0 0 32px #31cfff26;
+      }
+
+      a {
+        color: #9cecff;
+      }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
+    <script src="https://p5play.org/v3/planck.min.js"></script>
+    <script src="https://p5play.org/v3/p5play.js"></script>
+  </head>
+  <body>
+    <main>
+      <h1>Starship Escape</h1>
+      <p>Fight through the ship, solve its constellation lock, and reach the command deck.</p>
+      <div id="game"></div>
+      <p><a href="index.html">Back to the homepage</a></p>
+    </main>
+    <script src="starship_escape.js"></script>
+  </body>
+</html>
