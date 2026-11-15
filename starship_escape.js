@@ -88,7 +88,7 @@ function setup() {
   player.diameter = 28;
   player.color = '#55e6e2';
   player.stroke = '#d4ffff';
-  player.physics = NONE;
+  player.physics = 'none';
   loadRoom(0);
 }
 
@@ -386,7 +386,7 @@ function fireBurst() {
     sprite.diameter = 8;
     sprite.color = '#ffe27a';
     sprite.stroke = '#fff6c7';
-    sprite.physics = NONE;
+    sprite.physics = 'none';
     friendlyShots.push({
       sprite,
       velX: Math.cos(angle) * 8,
@@ -405,7 +405,7 @@ function launchHostileShot(enemy, directionX, directionY) {
   sprite.diameter = 9;
   sprite.color = enemy.boss ? '#ff6384' : '#bd78ff';
   sprite.stroke = '#ffe3ff';
-  sprite.physics = NONE;
+  sprite.physics = 'none';
   const speed = enemy.boss ? 3.4 : 3;
   hostileShots.push({
     sprite,
@@ -474,7 +474,7 @@ function loadRoom(nextRoom) {
     sprite.diameter = details.boss ? 48 : 34;
     sprite.color = details.boss ? '#ff5477' : '#9d72ff';
     sprite.stroke = details.boss ? '#ffd2dc' : '#e5d7ff';
-    sprite.physics = NONE;
+    sprite.physics = 'none';
     return {
       sprite,
       healthValue: details.hp,
